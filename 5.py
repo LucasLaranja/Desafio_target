@@ -1,0 +1,1 @@
+"""Ligaria um dos interruptores, esperaria alguns minutos e o desligaria. Ligaria um segundo interruptor. Iria até a sala. A lâmpada desligada e quente corresponde ao primeiro interruptor, a lâmpada acesa ao segundo e a lâmpada apagada e fria ao terceiro."""
